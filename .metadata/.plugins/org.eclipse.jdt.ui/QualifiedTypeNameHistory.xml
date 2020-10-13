@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="io.swagger.v3.oas.models.info.Info"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="io.swagger.v3.oas.annotations.parameters.RequestBody"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+<fullyQualifiedTypeName name="biz.idsoftware.repository.BookRepository"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.NotBlank"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="java.util.Optional"/>
+<fullyQualifiedTypeName name="biz.idsoftware.model.Book"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestControllerAdvice"/>
+<fullyQualifiedTypeName name="biz.idsoftware.exception.BookNotFoundException"/>
+<fullyQualifiedTypeName name="io.swagger.v3.oas.annotations.Parameter"/>
+<fullyQualifiedTypeName name="io.swagger.v3.oas.annotations.tags.Tag"/>
+<fullyQualifiedTypeName name="org.springframework.http.MediaType"/>
+<fullyQualifiedTypeName name="io.swagger.v3.oas.models.info.Contact"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="io.swagger.v3.oas.models.servers.Server"/>
+</qualifiedTypeNameHistroy>

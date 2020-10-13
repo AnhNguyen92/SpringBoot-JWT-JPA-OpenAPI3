@@ -1,0 +1,5 @@
+package biz.idsoftware.exception;
+
+public class BookNotFoundException {
+
+}

@@ -1,0 +1,5 @@
+package com.javainuse.repository;
+
+public class BookRepository {
+
+}

@@ -1,0 +1,24 @@
+
+Z
+java:S14521"&Remove usage of generic wildcard type.(Œœ¤ºüÿÿÿÿH¢RCRITICALZ
+CODE_SMELL
+Z
+java:S1452$"&Remove usage of generic wildcard type.(¤ƒ¹€úÿÿÿÿH RCRITICALZ
+CODE_SMELL
+v	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(êÆÖËùÿÿÿÿHRMAJORZ
+CODE_SMELL
+v	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Œœ¤ºüÿÿÿÿHœRMAJORZ
+CODE_SMELL
+{
+java:S4488#"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¶€»²ùÿÿÿÿH¡RMINORZ
+CODE_SMELL
+q	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(ÈçïÕHRMAJORZ
+CODE_SMELL
+v
+java:S44880"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÚŞ•H£RMINORZ
+CODE_SMELL
+q	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(Â††‘HŸRMAJORZ
+CODE_SMELL
+¤
+java:S11301"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Œœ¤ºüÿÿÿÿ8¢Õ‰Ò.H¤RMINORZ
+CODE_SMELL

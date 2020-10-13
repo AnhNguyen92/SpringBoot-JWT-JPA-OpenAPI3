@@ -1,0 +1,27 @@
+
+{
+java:S4488#"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¶€»²ùÿÿÿÿHÅRMINORZ
+CODE_SMELL
+v
+java:S44880"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÚŞ•HÉRMINORZ
+CODE_SMELL
+Z
+java:S14521"&Remove usage of generic wildcard type.(Œœ¤ºüÿÿÿÿHËRCRITICALZ
+CODE_SMELL
+
+java:S11301"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Œœ¤ºüÿÿÿÿHÈRMINORZ
+CODE_SMELL
+Z
+java:S1452$"&Remove usage of generic wildcard type.(¤ƒ¹€úÿÿÿÿHÇRCRITICALZ
+CODE_SMELL
+v	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Œœ¤ºüÿÿÿÿHÆRMAJORZ
+CODE_SMELL
+v	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(êÆÖËùÿÿÿÿHÄRMAJORZ
+CODE_SMELL
+q	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(ÈçïÕHÃRMAJORZ
+CODE_SMELL
+q	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(Â††‘HÊRMAJORZ
+CODE_SMELL
+‹
+java:S1598"ÔThis file "JwtAuthenticationController.java" should be located in "biz\idsoftware\controller" directory, not in "D:\8.Demo\spring-boot-jwt-JPA-openApi3\spring-boot-jwt-JPA\src\main\java\com\javainuse\controller".(‰¢ì8²«Ì‰Ò.HÍRCRITICALZ
+CODE_SMELL

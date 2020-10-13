@@ -1,0 +1,5 @@
+package biz.idsoftware.repository;
+
+public class BookRepository {
+
+}
